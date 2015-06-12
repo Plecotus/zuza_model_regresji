@@ -2,15 +2,13 @@
 
 Log:
 
-12.06.2015 
-# Przepiórka
-
-* Dorzucone dane do folderu input
-
-# Ziel
+12.06.2015 # Ziel
 
 * Przewidziane temperatury i zrobiony wykres.
 
+12.06.2015 #Przepiórka
+
+* Dorzucone dane do folderu input
 
 11.06.2015 # Ziel
 
